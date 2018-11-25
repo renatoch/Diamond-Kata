@@ -22,7 +22,7 @@
         }
 
         public static string GetIntermediarySpacesForLine(int distance) {
-            return new string(' ', distance == 1 ? 1 : ((distance-1)*2) + 1);
+            return new string(' ', 2 * (distance-1) + 1);
         }
 
     }
