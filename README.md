@@ -1,3 +1,3 @@
 # Diamond-Kata
 
-## Kata baseado em http://codingdojo.org/kata/Diamond/
+## Referência: http://codingdojo.org/kata/Diamond/
